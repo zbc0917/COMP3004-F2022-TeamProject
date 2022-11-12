@@ -20,6 +20,6 @@ Member Names:
 
 Use case:大家一起写 [Google Doc link](https://docs.google.com/document/d/1wva7miftVLtH2CygzFfbMugh-YXRB-y9VA-liWucCD4/edit?usp=sharing)
 
-UML: 先指写class 和总体关系，不包括function
-sequence diagram：scenario
-traceability matrix：
+UML: 先指写class 和总体关系，不包括function <br>
+sequence diagram：scenario <br>
+traceability matrix： <br>
