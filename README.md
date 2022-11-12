@@ -12,3 +12,10 @@ Member Names: <br>
 * traceability matrix 
 
 
+week one：
+
+Use case:大家一起写
+
+UML: 先指写class 和总体关系，不包括function
+sequence diagram：scenario
+traceability matrix：
