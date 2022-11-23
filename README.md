@@ -46,4 +46,6 @@ the UML design <br>
 * finish use case
 * build the class structure (before Nov. 22th)
 * Group meeting at 7pm, Nov.22th
-* 
+* work on classes (battery, earClips, record, users)
+* MainWindow and controlsys class may need finish by only one member
+* There should be an executable and support main use cases simulator at the end of this week.
